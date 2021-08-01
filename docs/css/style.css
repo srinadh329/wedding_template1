@@ -340,7 +340,7 @@ nav.navbar.shrink ul.dropdown-menu>li>a {
 
 .main-picture img {
     z-index: 19;
-    margin-left: 1%;
+    margin-left: 0;
 }
 /* Parallax ornament */
 
